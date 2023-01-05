@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1671187981 source:c:\users\lenovo\documents\smstr 3\tubes\tubes\main.cpp
+	"header.h"
+	<iostream>
+
+1671186281 c:\users\lenovo\documents\smstr 3\tubes\tubes\header.h
+	<iostream>
+
+1671187300 source:c:\users\lenovo\documents\smstr 3\tubes\tubes\cepepe.cpp
+	"header.h"
+
+1671965111 source:c:\users\gobli\documents\semester 3\tubes\tubes\cepepe.cpp
+	"header.h"
+
+1671965191 c:\users\gobli\documents\semester 3\tubes\tubes\header.h
+	<iostream>
+
+1671964683 source:c:\users\gobli\documents\semester 3\tubes\tubes\main.cpp
+	"header.h"
+	<iostream>
+
+1672035288 source:c:\users\lenovo\documents\smstr 3\tubes\revisi\cepepe.cpp
+	"header.h"
+
+1671965191 c:\users\lenovo\documents\smstr 3\tubes\revisi\header.h
+	<iostream>
+
+1672033378 source:c:\users\lenovo\documents\smstr 3\tubes\revisi\main.cpp
+	"header.h"
+	<iostream>
+
+1672827306 source:d:\documents\semester 3\struktur data\revisi\revisi\main.cpp
+	"header.h"
+	<iostream>
+
+1672827002 d:\documents\semester 3\struktur data\revisi\revisi\header.h
+	<iostream>
+	<string>
+
+1672827368 source:d:\documents\semester 3\struktur data\revisi\revisi\cepepe.cpp
+	"header.h"
+
+1672923111 source:d:\documents\semester 3\struktur data\revisi\revisi final\cepepe.cpp
+	"header.h"
+
+1672840550 d:\documents\semester 3\struktur data\revisi\revisi final\header.h
+	<iostream>
+	<string>
+
+1672923121 source:d:\documents\semester 3\struktur data\revisi\revisi final\main.cpp
+	"header.h"
+	<iostream>
+
+1672923111 source:d:\documents\semester 3\struktur data\revisi\revisi insyallah final\cepepe.cpp
+	"header.h"
+
+1672840550 d:\documents\semester 3\struktur data\revisi\revisi insyallah final\header.h
+	<iostream>
+	<string>
+
+1672923321 source:d:\documents\semester 3\struktur data\revisi\revisi insyallah final\main.cpp
+	"header.h"
+	<iostream>
+
